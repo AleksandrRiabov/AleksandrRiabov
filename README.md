@@ -6,8 +6,6 @@ I'm Aleks a Front End Developer. I spend most of time coding.
 
 [![Linkedin Badge](https://img.shields.io/badge/-AleksandrRiabov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-riabov//)
 
-  [![HitCount](https://hits.dwyl.com/AleksandrRiabov/AleksandrRiabov.svg?style=flat-square&show=unique)](http://hits.dwyl.com/AleksandrRiabov/AleksandrRiabov)
-
 
 #### Things I code with
 
