@@ -1,4 +1,7 @@
-## Hi I'm Aleks a Front End Developer.<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi I'm Aleks.<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+Web Developer with a strong foundation in JavaScript and React. Driven to gain hands-on experience in the web and software development industry and contribute my technical skills to create innovative and user-friendly solutions. Passionate about staying up-to-date with the latest technologies and eager to learn from experienced professionals in a supportive and dynamic work environment.
+
+
 
 :mailbox: Reach me out!
 
