@@ -19,3 +19,4 @@ Web Developer with a strong foundation in JavaScript and React. Driven to gain h
 [![Mui Badge](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](#)
 [![StyledComponents Badge](https://img.shields.io/badge/-Styled&nbsp;Components-DB7093?style=for-the-badge&labelColor=black&logo=styledcomponents&logoColor=DB7093)](#)
 
+[![](https://visitcount.itsvg.in/api?id=AleksandrRiabov&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
