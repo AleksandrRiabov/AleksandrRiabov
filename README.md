@@ -19,4 +19,14 @@ Web Developer with a strong foundation in JavaScript and React. Driven to gain h
 [![Mui Badge](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](#)
 [![StyledComponents Badge](https://img.shields.io/badge/-Styled&nbsp;Components-DB7093?style=for-the-badge&labelColor=black&logo=styledcomponents&logoColor=DB7093)](#)
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AleksandrRiabov&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AleksandrRiabov&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrRiabov&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AleksandrRiabov&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
+
 [![](https://visitcount.itsvg.in/api?id=AleksandrRiabov&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
