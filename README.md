@@ -21,9 +21,9 @@ Web Developer with a strong foundation in JavaScript and React. Driven to gain h
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AleksandrRiabov&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<a href="http://www.github.com/kpeazzoni"><img src="https://github-readme-stats.vercel.app/api?username=AleksandrRiabov&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="AleksandrRiabov GitHub stats" /></a><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AleksandrRiabov&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrRiabov&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/kpeazzoni" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrRiabov&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AleksandrRiabov&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
