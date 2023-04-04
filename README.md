@@ -34,7 +34,9 @@ Web Developer with a strong foundation in JavaScript and React. Driven to gain h
 
 # 📊 GitHub Stats:
 <a href="http://www.github.com/kpeazzoni"><img src="https://github-readme-stats.vercel.app/api?username=AleksandrRiabov&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="AleksandrRiabov GitHub stats" /></a><br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AleksandrRiabov&theme=blueberry&hide_border=false)<br/>
+
 <a href="https://github.com/kpeazzoni" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrRiabov&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
