@@ -3,12 +3,18 @@ Web Developer with a strong foundation in JavaScript and React. Driven to gain h
 
 
 
-:mailbox: Reach me out!
+- 🖥️  See my portfolio at https://aleksandrriabov.github.io/portfolio/
+- ✉️  You can contact me at sania.riabov@gmail.com
+- 🧠  I'm currently learning TypeScript in React 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AleksandrRiabov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-riabov//)
+### Technical Skills
+> - Programming Languages: JavaScript, HTML, CSS, TypeScript
+> - Front-End Frameworks: React.js, jQuery
+> - Back-End Frameworks: Node.js (Express.js)
+> - Databases:  MongoDB
+> - Deployment: Heroku, GitHub
+> - Libraries, Tools, and Languages: Bootstrap, Material Ui, React-Bootstrap
 
-
-#### Things I code with
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -17,8 +23,14 @@ Web Developer with a strong foundation in JavaScript and React. Driven to gain h
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Mui Badge](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](#)
-[![StyledComponents Badge](https://img.shields.io/badge/-Styled&nbsp;Components-DB7093?style=for-the-badge&labelColor=black&logo=styledcomponents&logoColor=DB7093)](#)
+[![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
 
+
+### Soft Skills
+> - Problem-solving, Multi-tasking, self-motivation, ability to work under pressure and deadlines
+> - Leadership, Responsibility, Teamwork, Communication, Team management, Collaboration
 
 # 📊 GitHub Stats:
 <a href="http://www.github.com/kpeazzoni"><img src="https://github-readme-stats.vercel.app/api?username=AleksandrRiabov&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="AleksandrRiabov GitHub stats" /></a><br/>
