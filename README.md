@@ -5,7 +5,7 @@ Web Developer with a strong foundation in JavaScript and React. Driven to gain h
 
 - 🖥️  See my portfolio at https://aleksandrriabov.github.io/portfolio/
 - ✉️  You can contact me at sania.riabov@gmail.com or [LinkedIn](https://www.linkedin.com/in/aleksandr-riabov/)
-- 🧠  I'm currently learning TypeScript in React 
+- 🧠  I'm currently learning C# .NET
 
 ### Technical Skills
 > - Programming Languages: JavaScript, HTML, CSS, TypeScript
